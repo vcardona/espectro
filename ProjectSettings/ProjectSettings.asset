@@ -158,7 +158,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.guisao.colaborapp
+    Android: com.setik.kampertee.unityrecorder
     Standalone: unity.DefaultCompany.KinoGlitch
     Tizen: com.Company.ProductName
     iOS: com.Company.ProductName
